@@ -26,7 +26,7 @@ Search for any city to view real-time weather data, forecasts, and more — all 
 
 ## 📸 Screenshots
 
-| (./assets/screenshots/Screenshot_1.png) | (./assets/screenshots/Screenshot_2.png) |
+![Screenshot1](./assets/screenshots/Screenshot_1.png) ![Screenshot2](./assets/screenshots/Screenshot_2.png)
 
 ---
 
