@@ -5,23 +5,25 @@ Search for any city to view real-time weather data, forecasts, and more — all 
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 **Search Functionality**  
+- **Search Functionality**  
   Instantly search and select any city to view its weather.
 
-- 🌡️ **Temperature Details**  
+- **Temperature Details**  
   Displays temperature in both **Celsius** and **Fahrenheit**.
 
-- ⛅ **Current Weather Conditions**  
+- **Current Weather Conditions**  
   Shows weather condition with dynamic weather icons and descriptions.
 
-- 🌬️ **Wind Speed, Humidity & Sunrise Time**  
+- **Wind Speed, Humidity & Sunrise Time**  
   Real-time display of wind (in km/h), humidity (%), and sunrise timing.
 
-- 📅 **3-Day Forecast**  
+- **3-Day Forecast**  
   Get the average temperature forecast for **today and the next 2 days**, displayed with animated cards.
-
+  
+- **Async Storage**  
+  Uses async storage to remember users' preferences.
 ---
 
 ## 📸 Screenshots
